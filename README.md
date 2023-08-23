@@ -13,7 +13,7 @@ The government's initiative to improve urban infrastructure and traffic manageme
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/mvshah10/Urban_Mobility_Insights_Predictive_Traffic_Analysis.git
+git clone https://github.com/mvshah10/upskillcampus.git
 
 2. Install the required dependencies and libraries.
 3. Run the code and explore the predictive model's performance.
